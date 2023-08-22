@@ -2,7 +2,7 @@
 
 <!-- [![Website Preview](preview.png)](https://your-website-url.com) -->
 
-Cover page transition experiment using GSAP from GreenSock as animation library
+Cover page transition experiment using plain HTML, CSS, JavaScript, and GSAP from GreenSock as animation library as well as some extra tools like Split Type and Vite.js for build.
 
 ## Installation
 
