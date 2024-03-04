@@ -4,6 +4,8 @@
 
 Cover page transition experiment using plain HTML, CSS, JavaScript, and GSAP from GreenSock as animation library as well as some extra tools like Split Type and Vite.js for build.
 
+https://github.com/peperini/gsap-cover-page-transition/assets/42049554/83300fc0-da27-455d-a6b9-79752efd858d
+
 ## Installation
 
 To run this project locally, follow these steps:
